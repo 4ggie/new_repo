@@ -1,3 +1,7 @@
 hello world! aaa
 wow!
-name : aggiee
+<<<<<<< HEAD
+name : aggie
+=======
+name : aggie
+>>>>>>> another-idea
