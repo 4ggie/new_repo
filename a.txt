@@ -2,6 +2,7 @@ hello world! aaa
 wow!
 <<<<<<< HEAD
 name : aggie
+hi
 =======
 name : aggie
 >>>>>>> another-idea
